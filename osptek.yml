@@ -1,0 +1,15 @@
+id: oled-0.96-128x64-spi_i2c-ssd1315
+category: displays
+
+size: "0.96"
+panel: oled
+resolution: 128x64
+interface: [spi, i2c]
+shape: rect
+corner: sharp
+
+versions:
+  - id: OED096-12864W009-C30
+    driver: SSD1315
+    touch: none
+    note: 30-pin FPC; BS0/BS1 select 3-/4-wire SPI or I2C; white monochrome; outline 24.7x16.6x1.3 mm
