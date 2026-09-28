@@ -51,7 +51,7 @@ Current module version: **OED096-12864W009-C30**. Electrical and mechanical deta
 
 | Description | Path |
 | ---- | ---- |
-| ESP32-S3 · S3 DEMO board · SSD1315 I2C face animation | [`examples/s3-demo-board/`](./examples/s3-demo-board/) |
+| ESP32-S3 · SSD1315 I2C bringup (face animation demo) | [`examples/esp32s3-oled-0.96-128x64-i2c-ssd1315-bringup/`](./examples/esp32s3-oled-0.96-128x64-i2c-ssd1315-bringup/) |
 
 ## Repository layout
 
@@ -78,7 +78,7 @@ oled-0.96-128x64-spi_i2c-ssd1315/         # repo root (nav: ../../README_EN.md)
 
 ### Sample projects
 
-- [ESP32-S3 · S3 DEMO board · SSD1315 I2C](./examples/s3-demo-board/)
+- [ESP32-S3 SSD1315 I2C bringup](./examples/esp32s3-oled-0.96-128x64-i2c-ssd1315-bringup/)
 
 ## Buy
 

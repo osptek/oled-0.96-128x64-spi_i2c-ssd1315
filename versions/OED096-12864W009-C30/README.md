@@ -51,7 +51,7 @@ OSPTEK **0.96 寸 128×64 OLED** 是一款 **SPI / I2C** 白色单色显示模�
 
 | 说明 | 路径 |
 | ---- | ---- |
-| ESP32-S3 · S3 DEMO 底板 · SSD1315 I2C 表情动画 | [`examples/s3-demo-board/`](./examples/s3-demo-board/) |
+| ESP32-S3 · SSD1315 I2C bringup（表情动画演示） | [`examples/esp32s3-oled-0.96-128x64-i2c-ssd1315-bringup/`](./examples/esp32s3-oled-0.96-128x64-i2c-ssd1315-bringup/) |
 
 ## 仓库结构
 
@@ -78,7 +78,7 @@ oled-0.96-128x64-spi_i2c-ssd1315/         # 仓库根（导航见 ../../README.m
 
 ### 示例工程
 
-- [ESP32-S3 · S3 DEMO 底板 · SSD1315 I2C](./examples/s3-demo-board/)
+- [ESP32-S3 SSD1315 I2C bringup](./examples/esp32s3-oled-0.96-128x64-i2c-ssd1315-bringup/)
 
 ## 购买链接
 
