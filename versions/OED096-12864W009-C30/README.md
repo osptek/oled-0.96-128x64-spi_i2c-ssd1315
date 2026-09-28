@@ -13,10 +13,13 @@
   <img alt="Driver: SSD1315" src="https://img.shields.io/badge/Driver-SSD1315-E7352C?style=flat-square" />
 </p>
 
+<p align="center"><img alt="OSPTEK 0.96 寸 128×64 OLED SPI / I2C 模组（SSD1315）宣传图" src="./images/product.png" width="640" /></p>
+
 ## 目录
 
 - [产品简介](#产品简介)
 - [规格参数](#规格参数)
+- [示例工程](#示例工程)
 - [仓库结构](#仓库结构)
 - [相关资料](#相关资料)
 - [购买链接](#购买链接)
@@ -44,6 +47,12 @@ OSPTEK **0.96 寸 128×64 OLED** 是一款 **SPI / I2C** 白色单色显示模�
 
 > 完整外形尺寸、FPC 定义、供电与时序以产品规格书 / 驱动手册为准。
 
+## 示例工程
+
+| 说明 | 路径 |
+| ---- | ---- |
+| ESP32-S3 · S3 DEMO 底板 · SSD1315 I2C 表情动画 | [`examples/s3-demo-board/`](./examples/s3-demo-board/) |
+
 ## 仓库结构
 
 ```text
@@ -66,6 +75,10 @@ oled-0.96-128x64-spi_i2c-ssd1315/         # 仓库根（导航见 ../../README.m
 | 产品规格书（OED096-12864W009-C30） | [`docs/OED096-12864W009-C30.pdf`](./docs/OED096-12864W009-C30.pdf) |
 | 驱动 IC 数据手册（SSD1315） | [`docs/SSD1315.pdf`](./docs/SSD1315.pdf) |
 | SSD1315 SPI 初始化代码 | [`docs/ssd1315-spi-init.c`](./docs/ssd1315-spi-init.c) |
+
+### 示例工程
+
+- [ESP32-S3 · S3 DEMO 底板 · SSD1315 I2C](./examples/s3-demo-board/)
 
 ## 购买链接
 

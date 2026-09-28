@@ -13,10 +13,13 @@
   <img alt="Driver: SSD1315" src="https://img.shields.io/badge/Driver-SSD1315-E7352C?style=flat-square" />
 </p>
 
+<p align="center"><img alt="OSPTEK 0.96 inch 128×64 OLED SPI / I2C module (SSD1315) product image" src="./images/product.png" width="640" /></p>
+
 ## Contents
 
 - [Overview](#overview)
 - [Specifications](#specifications)
+- [Sample projects](#sample-projects)
 - [Repository layout](#repository-layout)
 - [Resources](#resources)
 - [Buy](#buy)
@@ -44,6 +47,12 @@ Current module version: **OED096-12864W009-C30**. Electrical and mechanical deta
 
 > Full outline, FPC definition, power, and timing follow the product datasheet / driver IC datasheet.
 
+## Sample projects
+
+| Description | Path |
+| ---- | ---- |
+| ESP32-S3 · S3 DEMO board · SSD1315 I2C face animation | [`examples/s3-demo-board/`](./examples/s3-demo-board/) |
+
 ## Repository layout
 
 ```text
@@ -66,6 +75,10 @@ oled-0.96-128x64-spi_i2c-ssd1315/         # repo root (nav: ../../README_EN.md)
 | Product datasheet (OED096-12864W009-C30) | [`docs/OED096-12864W009-C30.pdf`](./docs/OED096-12864W009-C30.pdf) |
 | Driver IC datasheet (SSD1315) | [`docs/SSD1315.pdf`](./docs/SSD1315.pdf) |
 | SSD1315 SPI init code | [`docs/ssd1315-spi-init.c`](./docs/ssd1315-spi-init.c) |
+
+### Sample projects
+
+- [ESP32-S3 · S3 DEMO board · SSD1315 I2C](./examples/s3-demo-board/)
 
 ## Buy
 

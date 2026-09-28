@@ -1,0 +1,10 @@
+idf_component_register(
+    SRCS
+        "main.c"
+        "ssd1315.c"
+        "robot_face.c"
+    INCLUDE_DIRS
+        "."
+    REQUIRES
+        esp_driver_i2c
+)

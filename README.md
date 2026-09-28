@@ -37,11 +37,13 @@
 
 | 版本 | 宣传图 | 简介 | 完整资料 |
 | ---- | ------ | ---- | -------- |
-| OED096-12864W009-C30 |  | [简介](#oed096-12864w009-c30) | [完整资料](./versions/OED096-12864W009-C30/) |
+| OED096-12864W009-C30 | <img alt="OED096-12864W009-C30" src="./versions/OED096-12864W009-C30/images/product.png" width="120" /> | [简介](#oed096-12864w009-c30) | [完整资料](./versions/OED096-12864W009-C30/) |
 
 ---
 
 ## OED096-12864W009-C30
+
+<p align="center"><img alt="OED096-12864W009-C30" src="./versions/OED096-12864W009-C30/images/product.png" width="320" /></p>
 
 **说明：** FPC 为 30 Pin，白色单色，无触摸。BS0/BS1 选择 3-/4-wire SPI 或 I2C。模组外形 24.7×16.6×1.3 mm。
 

@@ -37,11 +37,13 @@ Repo id: `oled-0.96-128x64-spi_i2c-ssd1315`
 
 | Version | Image | Summary | Full docs |
 | ------- | ----- | ------- | --------- |
-| OED096-12864W009-C30 |  | [Summary](#oed096-12864w009-c30) | [Full docs](./versions/OED096-12864W009-C30/) |
+| OED096-12864W009-C30 | <img alt="OED096-12864W009-C30" src="./versions/OED096-12864W009-C30/images/product.png" width="120" /> | [Summary](#oed096-12864w009-c30) | [Full docs](./versions/OED096-12864W009-C30/) |
 
 ---
 
 ## OED096-12864W009-C30
+
+<p align="center"><img alt="OED096-12864W009-C30" src="./versions/OED096-12864W009-C30/images/product.png" width="320" /></p>
 
 **Notes:** 30-pin FPC, white monochrome, no touch. BS0/BS1 select 3-/4-wire SPI or I2C. Module outline 24.7×16.6×1.3 mm.
 
